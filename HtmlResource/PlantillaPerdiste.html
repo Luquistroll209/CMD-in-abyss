@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moriste en el abysmo - Información de Superviviente</title>
+    <style>
+        body {
+            background: radial-gradient(circle, rgba(0, 0, 0, 0.8), rgba(45, 45, 45, 0.9)), url('https://example.com/fondo.jpg');
+            background-size: cover;
+            font-family: 'Arial', sans-serif;
+            color: #ecf0f1;
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+        }
+
+        header {
+            background: rgba(139, 86, 0, 0.9);
+            color: white;
+            padding: 20px;
+            text-align: center;
+            text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.7);
+        }
+
+        .content {
+            text-align: center;
+            padding: 50px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .stat {
+            margin: 20px;
+            padding: 20px;
+            background-color: rgba(34, 49, 39, 0.8);
+            border-radius: 15px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+            font-size: 1.3em;
+        }
+
+        footer {
+            background: rgba(139, 86, 0, 0.9);
+            color: white;
+            padding: 15px;
+            text-align: center;
+            position: fixed;
+            width: 100%;
+        }
+
+    </style>
+</head>
+<body>
+    <header>
+        <h1>{{nombre}} Moriste en el fondo del abysm</h1>
+        <h2>Tu viaje ha llegado a su fin tu alma ira al fondo del abysm</h2>
+    </header>
+
+    <div class="content">
+        <div class="stat">
+            <h2>Nombre: {{nombre}}</h2>
+            <p>Capa actual: {{Layer}}</p>
+        </div>
+
+        <div class="stat">
+            <h2>Salud: {{Live}}%</h2>
+            <p>Hambre: {{Hunger}}%</p>
+        </div>
+
+        <div class="stat">
+            <h2>Inventario</h2>
+            <p>{{inventario}}</p>
+        </div>
+
+        <div class="stat">
+            <h2>Objeto de defensa: {{objDefensa}}</h2>
+            <p>Daño: {{Danio}}</p>
+            <p>Peleas Hechas: {{PeleasHechas}}</p>
+        </div>
+    </div>
+
+    <footer>
+        <p>Creado por: Lucas Karlsson López</p>
+    </footer>
+</body>
+</html>
