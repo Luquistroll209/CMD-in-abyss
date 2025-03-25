@@ -1,6 +1,7 @@
 ## 🎮 CMD in Abyss - Script por Lotes
 
-Este juego de Made In abyss es una pequeña aventura, hecho en (`.bat`). Este proyecto fue hecho como proyecto de clase, en Sistemas Operativos Monopuestos de FP medio de MicroInformatica
+Este juego de Made In abyss es una pequeña aventura, hecho en (`.bat`). Este proyecto fue hecho como proyecto de clase, en Sistemas Operativos Monopuestos de FP medio de MicroInformatica.
+En este puedes bajar y subir capas junto a una pequeña historia, tienes version ascii y ansi(más calidad).
 
 ---
 
