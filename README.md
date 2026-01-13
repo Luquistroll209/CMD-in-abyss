@@ -20,6 +20,30 @@ The game allows players to descend and ascend through different layers of the Ab
 
 ---
 
+## Screenshots
+
+### Main Menu
+![Main Menu](/Resources/Menu.png)
+
+### Inventory System
+![Inventory](/Resources/Inventory.png)
+
+### Turn-Based Combat
+![Combat System](/Resources/Combat.png)
+
+### Ability Selection
+
+During combat, the player can choose **3 attack abilities** and **1 defense ability**.  
+Attack and defense are selected separately depending on the situation.
+
+**Attack Abilities**  
+![Attack Abilities](/Resources/Ability1.png)
+
+**Defense Ability**  
+![Defense Ability](/Resources/Ability2.png)
+
+---
+
 ## Available Menus
 
 - **Main Menu:** Centralized management of all game options  
