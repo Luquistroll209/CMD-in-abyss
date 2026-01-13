@@ -37,7 +37,7 @@ During combat, the player can choose **3 attack abilities** and **1 defense abil
 Attack and defense are selected separately depending on the situation.
 
 **Attack Abilities**  
-![Attack Abilities](/Resources/Ability1.png)
+![Attack Abilities](/Resources/ability1.png)
 
 **Defense Ability**  
 ![Defense Ability](/Resources/Ability2.png)
