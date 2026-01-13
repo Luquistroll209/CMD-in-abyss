@@ -1,42 +1,47 @@
-## 🎮 CMD in Abyss - Script por Lotes
+# CMD in Abyss — Batch Script Game
 
-Este juego de Made In abyss es una pequeña aventura, hecho en (`.bat`). Este proyecto fue hecho como proyecto de clase, en Sistemas Operativos Monopuestos de FP medio de MicroInformatica.
-En este puedes bajar y subir capas junto a una pequeña historia, tienes version ascii y ansi(más calidad).
+**CMD in Abyss** is a text-based adventure game inspired by *Made in Abyss*, entirely developed using **Windows Batch (.bat)** scripting.
 
----
+This project was created as a **class assignment** for the subject **Operating Systems** within the **Intermediate Vocational Training (FP Medio) in Microcomputer Systems and Networks**.
 
-### ✨ Características
+The game allows players to descend and ascend through different layers of the Abyss while following a short narrative. It includes both **ASCII** and **ANSI** versions, with the ANSI version providing enhanced visual quality.
 
-- **🧳 Sistema de Inventario**
-- **💀 Mecánicas de Supervivencia** 
-- **🔽 Exploración por Capas**
-- **⚔️ Sistema de combate*
-- **📜 Menús Interactivos**
+> **Note:** All in-game dialogues and narrative content are written in **Spanish**.
 
 ---
 
-### 🖥️ Menús Disponibles
+## Features
 
-- **📌 Menú Principal:** Gestion de todo
-- **🎒 Inventario:** Permite ver y utilizar los objetos recogidos.
-- **🌍 Información:** Diferente información como el mapa o información de maldicion
-- **⚔️ Combate:** Sistema de peleas por turnos con opciones de ataque, defensa o uso de ítems.
-
----
-
-### 📜 Requisitos
-
-- Sistema operativo **Windows** (10 o 11).
+- Inventory management system  
+- Survival mechanics  
+- Layer-based exploration  
+- Turn-based combat system  
+- Interactive menu system  
 
 ---
 
-### ⚠️ Advertencias
+## Available Menus
 
-- Puede haber varios fallos
-- Algunas peleas son obligatorias en ciertos niveles, **prepárate bien antes de avanzar**.
-
-
+- **Main Menu:** Centralized management of all game options  
+- **Inventory:** View and use collected items  
+- **Information:** Access maps, curse descriptions, and other relevant data  
+- **Combat:** Turn-based encounters with options to attack, defend, or use items  
 
 ---
 
-Este Proyecto no sera actualizado
+## System Requirements
+
+- Windows operating system (Windows 10 or Windows 11)
+
+---
+
+## Warnings
+
+- The game may contain bugs or unexpected behavior  
+- Some encounters are mandatory at certain layers; proper preparation is recommended before progressing  
+
+---
+
+## Project Status
+
+This project is considered complete and **will not receive future updates**.
